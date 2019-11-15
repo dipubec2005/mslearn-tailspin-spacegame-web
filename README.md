@@ -1,3 +1,4 @@
+[![Build Status](https://msdevcampgur2017.visualstudio.com/Space%20Game%20-%20web/_apis/build/status/dipubec2005.mslearn-tailspin-spacegame-web?branchName=master)](https://msdevcampgur2017.visualstudio.com/Space%20Game%20-%20web/_build/latest?definitionId=2&branchName=master)
 
 # Contributing
 
