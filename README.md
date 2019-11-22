@@ -1,3 +1,4 @@
+[![Board Status](https://msdevcampgur2017.visualstudio.com/5cc5bf13-f193-4cdf-90ef-0bc0f260a232/2a8a7b72-76ae-4ecd-9820-1a06c254d7f3/_apis/work/boardbadge/625980ec-9507-484d-b94c-02c92920f04b)](https://msdevcampgur2017.visualstudio.com/5cc5bf13-f193-4cdf-90ef-0bc0f260a232/_boards/board/t/2a8a7b72-76ae-4ecd-9820-1a06c254d7f3/Microsoft.RequirementCategory)
 
 # Contributing
 
